@@ -1,5 +1,14 @@
 
-h5 {color:blue};
+h5 {
+color:blue
+};
+
+
+body{
+background-color:blueviolet;
+} 
+
+
 
 #primer_caracteristica{
 color:coral;
@@ -7,6 +16,4 @@ font-size: x-large;
 }
      
 
-body{
-    background-color:blueviolet;
-}
+
